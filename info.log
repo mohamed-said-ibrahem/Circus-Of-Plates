@@ -1,0 +1,244 @@
+2017-01-26 11:53:41,790 INFO  controller.MainMenCtrl (MainMenCtrl.java:19) - Main menu Opened
+2017-01-26 11:53:45,224 INFO  controller.MainMenCtrl (MainMenCtrl.java:31) - Play new game 
+2017-01-26 11:53:47,077 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:47,077 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:47,077 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:47,078 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:47,305 INFO  controller.ThemeMenuCtrl (ThemeMenuCtrl.java:30) - Theme 2 is choosen 
+2017-01-26 11:53:47,994 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:47,994 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:47,995 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:47,995 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:48,659 INFO  controller.HandleKeyBoard (HandleKeyBoard.java:59) - Game Saved
+2017-01-26 11:53:48,886 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:48,887 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:48,887 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:48,887 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:49,271 INFO  controller.HandleKeyBoard (HandleKeyBoard.java:37) - Show inGame Menu and game paused
+2017-01-26 11:53:50,935 INFO  controller.InGameMenCtrl (InGameMenCtrl.java:57) - Loaded game done 
+2017-01-26 11:53:51,593 INFO  controller.HandleKeyBoard (HandleKeyBoard.java:40) - Hide inGame Menu and game resumed
+2017-01-26 11:53:51,628 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:51,629 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:51,629 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:51,630 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:51,716 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:51,717 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:51,717 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:51,718 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:51,805 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:51,806 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:51,806 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:51,806 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:51,871 INFO  controller.HandleKeyBoard (HandleKeyBoard.java:37) - Show inGame Menu and game paused
+2017-01-26 11:53:52,272 INFO  controller.HandleKeyBoard (HandleKeyBoard.java:40) - Hide inGame Menu and game resumed
+2017-01-26 11:53:52,295 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:52,296 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:52,296 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:52,296 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:52,386 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:52,387 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:52,387 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:52,387 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:52,475 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:52,475 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:52,475 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:52,475 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:52,564 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:52,564 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:52,565 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:52,566 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:52,661 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:52,661 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:52,661 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:52,661 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:52,748 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:52,748 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:52,748 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:52,748 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:52,784 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Hexagonshape is added to reusabelPool
+2017-01-26 11:53:52,785 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Circleshape is added to reusabelPool
+2017-01-26 11:53:52,827 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:52,828 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:52,828 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:52,828 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:52,878 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Hexagonshape is added to reusabelPool
+2017-01-26 11:53:52,878 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Circleshape is added to reusabelPool
+2017-01-26 11:53:52,921 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:52,921 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:52,922 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:52,923 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:52,968 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Circleshape is added to reusabelPool
+2017-01-26 11:53:52,968 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Hexagonshape is added to reusabelPool
+2017-01-26 11:53:53,008 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:53,008 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:53,009 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:53,009 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:53,021 INFO  controller.HandleKeyBoard (HandleKeyBoard.java:37) - Show inGame Menu and game paused
+2017-01-26 11:53:53,129 INFO  controller.HandleKeyBoard (HandleKeyBoard.java:40) - Hide inGame Menu and game resumed
+2017-01-26 11:53:53,162 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Circleshape is added to reusabelPool
+2017-01-26 11:53:53,163 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Plateshape is added to reusabelPool
+2017-01-26 11:53:53,202 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:53,203 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:53,203 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:53,203 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:53,244 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Plateshape is added to reusabelPool
+2017-01-26 11:53:53,244 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Squareshape is added to reusabelPool
+2017-01-26 11:53:53,284 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:53,285 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:53,285 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:53,286 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:53,331 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Squareshape is added to reusabelPool
+2017-01-26 11:53:53,331 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Circleshape is added to reusabelPool
+2017-01-26 11:53:53,333 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Plateshape is added to reusabelPool
+2017-01-26 11:53:53,333 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Plateshape is added to reusabelPool
+2017-01-26 11:53:53,380 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:53,381 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:53,381 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:53,382 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:53,425 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Plateshape is added to reusabelPool
+2017-01-26 11:53:53,425 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Squareshape is added to reusabelPool
+2017-01-26 11:53:53,427 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Hexagonshape is added to reusabelPool
+2017-01-26 11:53:53,427 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Squareshape is added to reusabelPool
+2017-01-26 11:53:53,469 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:53,470 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:53,470 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:53,470 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:53,512 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Squareshape is added to reusabelPool
+2017-01-26 11:53:53,512 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Squareshape is added to reusabelPool
+2017-01-26 11:53:53,514 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Plateshape is added to reusabelPool
+2017-01-26 11:53:53,514 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Squareshape is added to reusabelPool
+2017-01-26 11:53:53,555 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:53,555 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:53,555 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:53,555 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:53,597 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Squareshape is added to reusabelPool
+2017-01-26 11:53:53,597 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Squareshape is added to reusabelPool
+2017-01-26 11:53:53,598 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Squareshape is added to reusabelPool
+2017-01-26 11:53:53,598 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Plateshape is added to reusabelPool
+2017-01-26 11:53:53,632 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:53,632 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:53,633 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:53,633 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:53,670 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Hexagonshape is added to reusabelPool
+2017-01-26 11:53:53,670 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Plateshape is added to reusabelPool
+2017-01-26 11:53:53,672 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Circleshape is added to reusabelPool
+2017-01-26 11:53:53,672 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Circleshape is added to reusabelPool
+2017-01-26 11:53:53,710 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:53,711 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:53,711 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:53,712 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:53,753 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Squareshape is added to reusabelPool
+2017-01-26 11:53:53,754 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Plateshape is added to reusabelPool
+2017-01-26 11:53:53,755 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Hexagonshape is added to reusabelPool
+2017-01-26 11:53:53,755 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Hexagonshape is added to reusabelPool
+2017-01-26 11:53:53,796 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:53,796 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:53,797 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:53,801 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:53,834 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Hexagonshape is added to reusabelPool
+2017-01-26 11:53:53,834 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Hexagonshape is added to reusabelPool
+2017-01-26 11:53:53,836 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Circleshape is added to reusabelPool
+2017-01-26 11:53:53,836 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Circleshape is added to reusabelPool
+2017-01-26 11:53:53,874 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:53,874 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:53,874 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:53,875 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:53,912 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Hexagonshape is added to reusabelPool
+2017-01-26 11:53:53,912 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Circleshape is added to reusabelPool
+2017-01-26 11:53:53,914 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Hexagonshape is added to reusabelPool
+2017-01-26 11:53:53,914 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Squareshape is added to reusabelPool
+2017-01-26 11:53:53,956 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:53,957 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:53,957 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:53,958 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:53,997 INFO  controller.LoadPageCtrl (LoadPageCtrl.java:64) - Back to the current game menu
+2017-01-26 11:53:54,035 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Squareshape is added to reusabelPool
+2017-01-26 11:53:54,035 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Plateshape is added to reusabelPool
+2017-01-26 11:53:54,052 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Hexagonshape is added to reusabelPool
+2017-01-26 11:53:54,052 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Squareshape is added to reusabelPool
+2017-01-26 11:53:54,386 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:54,386 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:54,386 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:54,386 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:54,703 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Hexagonshape is added to reusabelPool
+2017-01-26 11:53:54,703 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Squareshape is added to reusabelPool
+2017-01-26 11:53:54,719 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Circleshape is added to reusabelPool
+2017-01-26 11:53:54,719 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Hexagonshape is added to reusabelPool
+2017-01-26 11:53:55,050 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:55,050 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:55,050 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:55,050 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:55,369 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Plateshape is added to reusabelPool
+2017-01-26 11:53:55,369 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Plateshape is added to reusabelPool
+2017-01-26 11:53:55,386 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Circleshape is added to reusabelPool
+2017-01-26 11:53:55,386 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Circleshape is added to reusabelPool
+2017-01-26 11:53:55,699 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:55,699 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:55,699 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:55,699 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:56,015 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Plateshape is added to reusabelPool
+2017-01-26 11:53:56,016 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Circleshape is added to reusabelPool
+2017-01-26 11:53:56,031 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Plateshape is added to reusabelPool
+2017-01-26 11:53:56,031 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Hexagonshape is added to reusabelPool
+2017-01-26 11:53:56,344 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:56,345 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:56,345 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:56,345 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:56,652 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Circleshape is added to reusabelPool
+2017-01-26 11:53:56,652 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Squareshape is added to reusabelPool
+2017-01-26 11:53:56,667 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Plateshape is added to reusabelPool
+2017-01-26 11:53:56,667 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Squareshape is added to reusabelPool
+2017-01-26 11:53:56,972 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:56,972 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:56,973 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:56,973 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:57,284 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Circleshape is added to reusabelPool
+2017-01-26 11:53:57,285 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Hexagonshape is added to reusabelPool
+2017-01-26 11:53:57,300 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Hexagonshape is added to reusabelPool
+2017-01-26 11:53:57,301 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Plateshape is added to reusabelPool
+2017-01-26 11:53:57,608 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:57,608 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:57,609 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:57,609 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:53:57,920 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Hexagonshape is added to reusabelPool
+2017-01-26 11:53:57,920 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Plateshape is added to reusabelPool
+2017-01-26 11:53:57,936 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Plateshape is added to reusabelPool
+2017-01-26 11:53:57,936 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Squareshape is added to reusabelPool
+2017-01-26 11:53:58,247 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:58,247 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:58,247 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:58,247 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:53:58,568 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Plateshape is added to reusabelPool
+2017-01-26 11:53:58,568 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Plateshape is added to reusabelPool
+2017-01-26 11:53:58,584 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Squareshape is added to reusabelPool
+2017-01-26 11:53:58,584 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Squareshape is added to reusabelPool
+2017-01-26 11:53:58,888 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:58,889 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:53:58,889 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:58,890 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:53:59,200 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Squareshape is added to reusabelPool
+2017-01-26 11:53:59,200 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Hexagonshape is added to reusabelPool
+2017-01-26 11:53:59,216 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Circleshape is added to reusabelPool
+2017-01-26 11:53:59,216 INFO  controller.CircusCtrl (CircusCtrl.java:163) - externalShapes.Hexagonshape is added to reusabelPool
+2017-01-26 11:53:59,370 INFO  controller.HandleKeyBoard (HandleKeyBoard.java:37) - Show inGame Menu and game paused
+2017-01-26 11:54:01,660 INFO  controller.InGameMenCtrl (InGameMenCtrl.java:68) - Quit currrent game ,Go to main menu
+2017-01-26 11:54:02,837 INFO  controller.MainMenCtrl (MainMenCtrl.java:31) - Play new game 
+2017-01-26 11:54:04,901 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:54:04,901 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:54:04,901 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:54:04,902 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:54:04,937 INFO  controller.ThemeMenuCtrl (ThemeMenuCtrl.java:27) - Theme 1 is choosen 
+2017-01-26 11:54:05,582 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:54:05,583 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:54:05,583 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Circleshape is created
+2017-01-26 11:54:05,583 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Hexagonshape is created
+2017-01-26 11:54:05,935 INFO  controller.HandleKeyBoard (HandleKeyBoard.java:59) - Game Saved
+2017-01-26 11:54:06,333 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:54:06,333 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Plateshape is created
+2017-01-26 11:54:06,334 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:54:06,334 INFO  controller.CircusCtrl (CircusCtrl.java:105) - a newexternalShapes.Squareshape is created
+2017-01-26 11:54:06,517 INFO  controller.HandleKeyBoard (HandleKeyBoard.java:40) - Hide inGame Menu and game resumed
+2017-01-26 11:54:06,519 INFO  controller.HandleKeyBoard (HandleKeyBoard.java:37) - Show inGame Menu and game paused
+2017-01-26 11:54:08,557 INFO  controller.InGameMenCtrl (InGameMenCtrl.java:68) - Quit currrent game ,Go to main menu
+2017-01-26 11:54:09,835 INFO  controller.MainMenCtrl (MainMenCtrl.java:37) - Open Load Menu
+2017-01-26 11:54:10,895 INFO  controller.LoadPageCtrl (LoadPageCtrl.java:64) - Back to the current game menu
